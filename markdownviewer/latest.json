@@ -1,0 +1,11 @@
+{
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/RedBilled/releases/releases/download/markdownviewer-v1.2.0/MarkdownViewer_1.2.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbUgvWDhNL2JnSUZ3TzJQdUVQc2Y5M1hRZ2dpcW9neE5uY2N1T1F4d0ZNRTlNRklLRGVSaGQ1d1FyTE5McUZ3eFdOWndFQ0NCWEtMblBnR2xEUTF3aFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTU2NDAzCWZpbGU6TWFya2Rvd25WaWV3ZXJfMS4yLjBfeDY0LXNldHVwLmV4ZQpRamtCVUI5RXVrd1hTVGVEV29XVW5CVTU1Q2Q1b0FiMlVLOU5lNlBmczVNQitpdXlBOGk3cTFBL3o1cWVyNlVzcjhmSml4NytyY0NlRW1vMk5vdllCZz09Cg=="
+    }
+  },
+  "pub_date": "2026-04-02T19:00:14Z",
+  "notes": "MarkdownViewer v1.2.0",
+  "version": "1.2.0"
+}
