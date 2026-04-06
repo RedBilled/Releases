@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/RedBilled/releases/releases/download/logcatviewer-v0.1.1/LogcatViewer_0.1.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbUFmWUJuTnJscXdDSndOZFRqYkxldDFsY2NjYUhieC9TZ1AvOWFsL3NaODRzOUdtUGJkRUZrMzc2dU1iVDhRNlZ1MFV6SzUyeFRsYU15cDNwd3RkQndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NDQyMjEyCWZpbGU6TG9nY2F0Vmlld2VyXzAuMS4wX3g2NC1zZXR1cC5leGUKSlVBZjlSN0t5SXc3aTFyRlBTeVVPZXI3V05hekI1NERhTGdRZmZUZ3RtMUgySXhtcVh0MkdQcGRNNUkrU2wzcTl3RFFyRmx6WG9vMXJZcndSbXBPQ0E9PQo="
+    }
+  },
+  "notes": "LogcatViewer v0.1.1",
+  "pub_date": "2026-04-06T02:23:33Z"
+}
