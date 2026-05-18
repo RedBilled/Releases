@@ -1,11 +1,11 @@
 {
-  "version": "0.9.7",
-  "notes": "LogcatViewer v0.9.7",
-  "pub_date": "2026-04-17T05:32:53Z",
+  "version": "0.9.8",
+  "notes": "LogcatViewer v0.9.8",
+  "pub_date": "2026-05-18T11:54:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbUtVQWM3czJRSDkwQ1JVR1haclljZHFXcHdzSjNwUnRROE1LY0dmMzVXWkVNMnN2a0xlN1NDdEY2czFsRWZsaktLRTByMU5mdE9LS2dhZ0hEa0RHc0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDAzOTczCWZpbGU6TG9nY2F0Vmlld2VyXzAuOS43X3g2NC1zZXR1cC5leGUKdVVhbTRoLy9GaHF3Wk1Ubnd6Z2xXOWpUZUkwUG9wdWw5K25LMUY3Y2Z6SzdHdUhDK21ucEpWL0YrWktPb3lzOXZZUDhNR2Z6dWh1NGU2QjFKMlFUQkE9PQo=",
-      "url": "https://github.com/RedBilled/releases/releases/download/logcatviewer-v0.9.7/LogcatViewer_0.9.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbUM4eUpYZFdmR3A4WkVacGIrQ1RuMTg2Y3p3SmMvcGgzM00rZHRJS1llVW1CblFhaTBKc2RpazRvUUtlb3RnKzNldUUyWDJ6dFBWeTB5VWF2VXNSNFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTA1MjgzCWZpbGU6TG9nY2F0Vmlld2VyXzAuOS44X3g2NC1zZXR1cC5leGUKdGh5a2tPM0E2SmZETXpRYkYzMWNEamlNVm1oSGRxeXVtdDdrMHhPbEd0Q2p0S1RrTjcrUWlyNE4xRWNiOGp5SUxUZnlxM1ovR3NtQmdlYTBwZnpOQlE9PQo=",
+      "url": "https://github.com/RedBilled/releases/releases/download/logcatviewer-v0.9.8/LogcatViewer_0.9.8_x64-setup.exe"
     }
   }
 }
