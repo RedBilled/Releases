@@ -1,11 +1,11 @@
 {
   "version": "2.0.0",
   "notes": "SCTB v2.0.0",
-  "pub_date": "2026-06-17T08:48:53Z",
+  "pub_date": "2026-06-19T15:52:35Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYzdnb1BsSm1TUTVEN0pRNGo4UTh3TFQrWVZrTlVtVUd1SU90YmZXckoza3p4Z25QTm5nK0hOR29qN1lUNnhxYk15OFkxbGgydi82OFRyalN5WUVKN2JLb1BsNFgxZFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjg2MTMyCWZpbGU6U0NUQl8yLjAuMF94NjQtc2V0dXAuZXhlCjVMSGx6L0wvQzE4V1p0NDd0RzlNdlVtaUpyL21WZVFnb0xHYlhjc05aL1ZWVDNqMDlRbVk4d0JyTHErQlFoZFBJZlVkc0lXZzNabkZ3QlVtc0lacURBPT0K",
-      "url": "https://github.com/RedBilled/Releases/releases/download/sctb-v2.0.0/SCTB_2.0.0_x64-setup.exe"
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYzdnb1BsSm1TUTN3cDdjR1FQNlZsR1dQT0VSTWhXWHczUUhzVlc0WkQ4cVlPb05MYXNrZWlFV1FxZ1dPc3c5RFNPME1VTFRKd254eUtnR29aTHNMWFNWVVc5QVRnYnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODg0MzU1CWZpbGU6U0NUQi5hcHAudGFyLmd6CjJJMk8velgrb1ZoQUtIU0hlRDlteXU0enJKMDZMQllTOGtKQ0dZbFBvazZQTmFkNktjWEVla2NxOS8ydTlWcDVLblcxK2I5M0RZMHliNzhMRUEyV0RnPT0K",
+      "url": "https://github.com/RedBilled/Releases/releases/download/sctb-v2.0.0/SCTB.app.tar.gz"
     }
   }
 }
