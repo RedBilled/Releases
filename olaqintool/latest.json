@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "OlaqinTool v0.5.0",
-  "pub_date": "2026-06-19T13:22:50Z",
+  "version": "0.6.0",
+  "notes": "OlaqinTool v0.6.0",
+  "pub_date": "2026-06-29T07:05:47Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3BtKzV4SE9HLzU5Y1R3YjhkeTBlMTNLMUZwVWVLNzBlMHp0NjJRWVZyU1I3K2NRVlFJMlJuS2U2c0UyYXdDSTFPOGg3bEEvZU5IK3lkNEpJVnAyUDA4ZFNFUFZuRkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODc1MzU3CWZpbGU6T2xhcWluVG9vbF8wLjUuMF94NjQtc2V0dXAuZXhlCndmRk9HdmFWaEtnbklDUnJYMVhCZTZHeFVIQU90dm5uQnNkNlR2TWROdGMvQ1dORHhQdVNIM1pPNlB2MlphNStacHRIdlhkcGZYTEtsYUVJWVhsaERnPT0K",
-      "url": "https://github.com/RedBilled/releases/releases/download/olaqintool-v0.5.0/OlaqinTool_0.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3BtKzV4SE9HLzB1SU1IVklwV2p0YUxINVEvMEhLbS83QnhKTW5OZ0NKWDFaRmI5Q2FGQzlyMWRjNUtvWXZXcWxqOXpIQURCa2dGa3BRbFVaR1BxaVVkWDBHcjF3SGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzE2NzMzCWZpbGU6T2xhcWluVG9vbF8wLjYuMF94NjQtc2V0dXAuZXhlClVsMVNpZlI2NlNhQnlMQXNRNjM0THhqSnUrNkt2WFZ0TTNNT1lqeUJxSWdyNTZHZHp0anh1NFM2amFlVmczQTVYUGdsRlhYdi9zQnN2b3p3M3F1SENnPT0K",
+      "url": "https://github.com/RedBilled/releases/releases/download/olaqintool-v0.6.0/OlaqinTool_0.6.0_x64-setup.exe"
     }
   }
 }
