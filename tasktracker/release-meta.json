@@ -1,7 +1,7 @@
 {
   "name": "TaskTracker",
-  "version": "0.4.0",
-  "tag": "tasktracker-v0.4.0",
+  "version": "0.5.0",
+  "tag": "tasktracker-v0.5.0",
   "description": {
     "en": "TaskTracker is a private, easy desktop app for tracking work time by task. It asks you at regular intervals what you are working on, automatically aggregates your time entries, detects leave (session lock, no response), and exports a weekly or monthly summary to Excel. One-year retention, per-country public holidays, light and dark themes — and all your data stays stored locally on your machine.",
     "fr": "TaskTracker est une application de bureau de suivi du temps de travail par tâche, simple et respectueuse de la vie privée. Elle vous interroge à intervalles réguliers sur la tâche en cours, agrège automatiquement vos imputations, détecte les congés (verrouillage de session, absence de réponse) et exporte un résumé hebdomadaire ou mensuel vers Excel. Rétention d'un an, jours fériés par pays, thèmes clair et sombre — et toutes vos données restent stockées localement sur votre poste."
@@ -12,7 +12,7 @@
   ],
   "icon": "icon-128.png",
   "license": "LICENSE",
-  "changelog": "### Ajouté\n\n- Statistiques : le graphe d'évolution prend désormais en compte l'option\n  « Inclure les congés » — un segment « Congés » apparaît dans les barres quand\n  l'option est activée.\n\n### Modifié\n\n- Première saisie du matin : plus de demande immédiate au démarrage. La première\n  demande de saisie intervient une fréquence de scrutation après le début de\n  votre activité (par exemple : démarrage à 9 h 24 → première demande à\n  10 h 24). Le comblement des heures déjà écoulées lors d'un démarrage tardif\n  est conservé.\n\n### Corrigé\n\n- Écran blanc : en cas d'erreur inattendue, l'application affiche désormais un\n  écran de secours avec un bouton « Recharger » au lieu de se figer — vos\n  données sont conservées.\n- La fenêtre « Combler les scrutations manquées » (en bas à droite de l'écran)\n  s'ajuste maintenant à la hauteur de son contenu au lieu de rester trop haute.",
+  "changelog": "Version qui distingue les jours fériés des week-ends dans le Résumé et les Statistiques, ajuste le graphe d'évolution, élargit les écrans Paramètres et corrige un créneau parasite proposé le matin.\n\n### Ajouté\n\n- **Jours fériés distingués des week-ends** : dans le Résumé (vues Semaine et Mois), un jour férié est désormais signalé par une couleur et un badge dédiés, avec le nom du férié en info-bulle — distinct d'un week-end. Nécessite d'avoir choisi un pays dans Paramètres → Détection de congés.\n- **Jours fériés dans les Statistiques** : le graphe d'évolution marque les jours fériés comme une catégorie à part et les fait apparaître en légende avec leur nombre de jours et leur proportion.\n\n### Modifié\n\n- **Graphe d'évolution — congés toujours affichés** : les congés sont maintenant toujours empilés dans le graphe d'évolution ; l'option « Inclure les congés » ne concerne plus que le camembert (répartition par tâche).\n- **Graphe d'évolution — jours non travaillés masqués** : les week-ends sont retirés du graphe d'évolution (un jour férié tombant en semaine reste affiché et marqué).\n- **Écrans Paramètres pleine largeur** : les écrans Paramètres occupent désormais toute la largeur de l'en-tête, comme le Résumé et les Statistiques.\n\n### Corrigé\n\n- **Créneau parasite du matin** : lorsque l'application restait ouverte toute la nuit, un créneau à rattraper d'une minute (par exemple 9 h 00 – 9 h 01) pouvait être proposé au réveil. La première demande du matin est de nouveau alignée sur le pas de scrutation.",
   "screenshots": [
     "01-summary.png",
     "02-settings-tasks.png",
