@@ -1,7 +1,7 @@
 {
   "name": "TaskTracker",
-  "version": "0.5.1",
-  "tag": "tasktracker-v0.5.1",
+  "version": "0.5.2",
+  "tag": "tasktracker-v0.5.2",
   "description": {
     "en": "TaskTracker is a private, easy desktop app for tracking work time by task. It asks you at regular intervals what you are working on, automatically aggregates your time entries, detects leave (session lock, no response), and exports a weekly or monthly summary to Excel. One-year retention, per-country public holidays, light and dark themes — and all your data stays stored locally on your machine.",
     "fr": "TaskTracker est une application de bureau de suivi du temps de travail par tâche, simple et respectueuse de la vie privée. Elle vous interroge à intervalles réguliers sur la tâche en cours, agrège automatiquement vos imputations, détecte les congés (verrouillage de session, absence de réponse) et exporte un résumé hebdomadaire ou mensuel vers Excel. Rétention d'un an, jours fériés par pays, thèmes clair et sombre — et toutes vos données restent stockées localement sur votre poste."
@@ -12,7 +12,7 @@
   ],
   "icon": "icon-128.png",
   "license": "LICENSE",
-  "changelog": "Version corrigeant une fuite de confidentialité dans les captures d'écran diffusées avec l'application.\n\n### Sécurité\n\n- **Captures de présentation isolées** : les captures d'écran publiées avec les versions de TaskTracker n'affichent plus vos vraies tâches et imputations. Elles sont désormais générées à partir d'un jeu de données fictif dédié, sans jamais lire ni modifier vos données réelles.",
+  "changelog": "Version qui ajoute l'import d'un historique d'imputations depuis un fichier Excel, corrige deux anomalies de l'écran Résumé et met à jour des dépendances internes pour la sécurité.\n\n### Ajouté\n\n- **Import d'imputations depuis un fichier Excel** : à partir d'une matrice tâches × semaines (au format de l'export RH), l'application réintègre les imputations passées, avec prévisualisation avant validation. Les données importées remplacent la semaine correspondante et les cellules marquées comme absence sont converties en congés.\n\n### Corrigé\n\n- **Résumé — plus de plantage sur une date invalide** : l'affichage du Résumé pouvait échouer (« Invalid time value ») dans certaines situations ; le formatage des dates est désormais durci et l'écran reste stable.\n- **Résumé — bascule Mois → Semaine** : passer de la vue Mois à la vue Semaine affiche désormais la semaine attendue (auparavant une semaine incorrecte pouvait être ciblée).\n\n### Sécurité\n\n- **Dépendances internes mises à jour** pour corriger des vulnérabilités de sécurité signalées (bibliothèque de lecture de fichiers Excel et outillage de développement). Aucun changement de comportement de l'application.",
   "screenshots": [
     "01-summary.png",
     "02-settings-tasks.png",
