@@ -1,18 +1,24 @@
 {
   "name": "TaskTracker",
-  "version": "0.5.2",
-  "tag": "tasktracker-v0.5.2",
+  "version": "0.5.3",
+  "tag": "tasktracker-v0.5.3",
   "description": {
+    "de": "TaskTracker ist eine Desktop-Anwendung zur Arbeitszeiterfassung pro Aufgabe – einfach und datenschutzfreundlich. Sie fragt Sie in regelmäßigen Abständen nach der aktuellen Aufgabe, aggregiert Ihre Zeitbuchungen automatisch, erkennt Abwesenheiten (Sitzungssperre, ausbleibende Antwort) und exportiert eine wöchentliche oder monatliche Zusammenfassung nach Excel. Aufbewahrung von einem Jahr, länderspezifische Feiertage, helles und dunkles Design – und alle Ihre Daten bleiben lokal auf Ihrem Rechner gespeichert.",
     "en": "TaskTracker is a private, easy desktop app for tracking work time by task. It asks you at regular intervals what you are working on, automatically aggregates your time entries, detects leave (session lock, no response), and exports a weekly or monthly summary to Excel. One-year retention, per-country public holidays, light and dark themes — and all your data stays stored locally on your machine.",
-    "fr": "TaskTracker est une application de bureau de suivi du temps de travail par tâche, simple et respectueuse de la vie privée. Elle vous interroge à intervalles réguliers sur la tâche en cours, agrège automatiquement vos imputations, détecte les congés (verrouillage de session, absence de réponse) et exporte un résumé hebdomadaire ou mensuel vers Excel. Rétention d'un an, jours fériés par pays, thèmes clair et sombre — et toutes vos données restent stockées localement sur votre poste."
+    "es": "TaskTracker es una aplicación de escritorio de seguimiento del tiempo de trabajo por tarea, sencilla y respetuosa con la privacidad. Le pregunta a intervalos regulares sobre la tarea en curso, agrega automáticamente sus imputaciones, detecta las ausencias (bloqueo de sesión, falta de respuesta) y exporta un resumen semanal o mensual a Excel. Retención de un año, días festivos por país, temas claro y oscuro — y todos sus datos permanecen almacenados localmente en su equipo.",
+    "fr": "TaskTracker est une application de bureau de suivi du temps de travail par tâche, simple et respectueuse de la vie privée. Elle vous interroge à intervalles réguliers sur la tâche en cours, agrège automatiquement vos imputations, détecte les congés (verrouillage de session, absence de réponse) et exporte un résumé hebdomadaire ou mensuel vers Excel. Rétention d'un an, jours fériés par pays, thèmes clair et sombre — et toutes vos données restent stockées localement sur votre poste.",
+    "zh-CN": "TaskTracker 是一款简单且注重隐私的桌面按任务工时跟踪应用。它会定期询问您当前的任务，自动汇总您的工时记录，检测休假（会话锁定、无响应），并将每周或每月的摘要导出为 Excel。数据保留一年、按国家/地区的法定节假日、浅色与深色主题——而且您的所有数据都始终本地存储在您的设备上。"
   },
   "languages": [
+    "de",
     "en",
-    "fr"
+    "es",
+    "fr",
+    "zh-CN"
   ],
   "icon": "icon-128.png",
   "license": "LICENSE",
-  "changelog": "Version qui ajoute l'import d'un historique d'imputations depuis un fichier Excel, corrige deux anomalies de l'écran Résumé et met à jour des dépendances internes pour la sécurité.\n\n### Ajouté\n\n- **Import d'imputations depuis un fichier Excel** : à partir d'une matrice tâches × semaines (au format de l'export RH), l'application réintègre les imputations passées, avec prévisualisation avant validation. Les données importées remplacent la semaine correspondante et les cellules marquées comme absence sont converties en congés.\n\n### Corrigé\n\n- **Résumé — plus de plantage sur une date invalide** : l'affichage du Résumé pouvait échouer (« Invalid time value ») dans certaines situations ; le formatage des dates est désormais durci et l'écran reste stable.\n- **Résumé — bascule Mois → Semaine** : passer de la vue Mois à la vue Semaine affiche désormais la semaine attendue (auparavant une semaine incorrecte pouvait être ciblée).\n\n### Sécurité\n\n- **Dépendances internes mises à jour** pour corriger des vulnérabilités de sécurité signalées (bibliothèque de lecture de fichiers Excel et outillage de développement). Aucun changement de comportement de l'application.",
+  "changelog": "Version qui ajoute trois nouvelles langues d'interface (allemand, espagnol, chinois simplifié) avec un mode « Système (auto) », corrige la restauration de la langue au démarrage et introduit une nouvelle icône d'application.\n\n### Ajouté\n\n- **Nouvelles langues d'interface** : l'application est désormais disponible en **allemand**, **espagnol** et **chinois simplifié**, en plus du français et de l'anglais (Paramètres → Général).\n- **Langue « Système (auto) »** : une nouvelle option permet de suivre automatiquement la langue de votre système d'exploitation.\n\n### Modifié\n\n- **Nouvelle icône d'application** : TaskTracker adopte une nouvelle icône (chronomètre) — visible dans la barre des tâches, les fenêtres et le programme d'installation.\n\n### Corrigé\n\n- **Langue conservée au démarrage** : la langue d'interface choisie est désormais correctement restaurée à chaque lancement (elle pouvait auparavant revenir à la langue par défaut au redémarrage).",
   "screenshots": [
     "01-summary.png",
     "02-settings-tasks.png",
