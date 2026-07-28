@@ -1,15 +1,15 @@
 {
-  "version": "2.0.0",
-  "notes": "SCTB v2.0.0",
-  "pub_date": "2026-06-21T17:27:50Z",
+  "version": "2.0.3",
+  "notes": "SCTB v2.0.3",
+  "pub_date": "2026-07-28T13:19:15Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYzdnb1BsSm1TUTBHb2Y0NDNJNU11REFOMWRyS0hXU0xTSlB6cDFhMCs2d0pQMXpIU2d0TnB2TXdZN0RUYmVTVlZSZG1wZGRQSU0vRFpHSUhPZEx1OU0vWHZWV2VoZ2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTEzOTM0CWZpbGU6U0NUQi5hcHAudGFyLmd6CkJ2SDRGamZYa2IzZzk1OS8vSFE2aFFYZGFUWXVlVSs1OVB6Q3JRemV4RmUwTjgxa2Z4OG8zUXJ6MTQ2V3BieFdCRmVKT20yTEVMUkFxNnFsZnd4WUJ3PT0K",
-      "url": "https://github.com/RedBilled/Releases/releases/download/sctb-v2.0.0/SCTB.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYzdnb1BsSm1TUXo4OGlhUytFbHcwQWtHNXdOeDBRNzFTa3ErTENxMGRwdG42OU5yR2tRN0FJZTRIQytJUXI4UkJMZmlheVM5UFlRWDgwNFNHdVFtVEE2dzNCZnNZMHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjQ0NzU1CWZpbGU6U0NUQi5hcHAudGFyLmd6CkVBR2hFOGdycFZzeU9hYkZrdXFlMFJSOWZqWHNSQ3JhYkJVa24vSEpxVTZ4b3FqeFZqRFJLZjR6U3B2NnJBczZGN1AyNHNkd2YzUWFoVFZqQXdwVEJnPT0K",
+      "url": "https://github.com/RedBilled/Releases/releases/download/sctb-v2.0.3/SCTB.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYzdnb1BsSm1TUTBHb2Y0NDNJNU11REFOMWRyS0hXU0xTSlB6cDFhMCs2d0pQMXpIU2d0TnB2TXdZN0RUYmVTVlZSZG1wZGRQSU0vRFpHSUhPZEx1OU0vWHZWV2VoZ2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTEzOTM0CWZpbGU6U0NUQi5hcHAudGFyLmd6CkJ2SDRGamZYa2IzZzk1OS8vSFE2aFFYZGFUWXVlVSs1OVB6Q3JRemV4RmUwTjgxa2Z4OG8zUXJ6MTQ2V3BieFdCRmVKT20yTEVMUkFxNnFsZnd4WUJ3PT0K",
-      "url": "https://github.com/RedBilled/Releases/releases/download/sctb-v2.0.0/SCTB.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYzdnb1BsSm1TUXo4OGlhUytFbHcwQWtHNXdOeDBRNzFTa3ErTENxMGRwdG42OU5yR2tRN0FJZTRIQytJUXI4UkJMZmlheVM5UFlRWDgwNFNHdVFtVEE2dzNCZnNZMHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjQ0NzU1CWZpbGU6U0NUQi5hcHAudGFyLmd6CkVBR2hFOGdycFZzeU9hYkZrdXFlMFJSOWZqWHNSQ3JhYkJVa24vSEpxVTZ4b3FqeFZqRFJLZjR6U3B2NnJBczZGN1AyNHNkd2YzUWFoVFZqQXdwVEJnPT0K",
+      "url": "https://github.com/RedBilled/Releases/releases/download/sctb-v2.0.3/SCTB.app.tar.gz"
     }
   }
 }
