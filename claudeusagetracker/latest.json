@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "notes": "Version initiale.",
+  "pub_date": "2026-10-07T13:34:05Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFh5Wml2TEtPenNWNGx1OVBBQ0wzSER2aDRwaS9STHg3ZE1OVU5DdDJmeWhSeGE0NHBkaFZvKy9MNjNKdGgrUU8zaU1DM201cG9URXlmRG8zdUpFQ3Y3OGVOeVBlZWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc5OTg5CWZpbGU6Q2xhdWRlVXNhZ2VUcmFja2VyXzEuMC4wX3g2NC1zZXR1cC5leGUKSjM0MU50VklNTzJIZXpiREVuNlNGRVZzS2V4MFB2a00rbE9BUzRoZzk0bEFsZUwrSXZtNVBVZEZHZTk2aWhtOC9PbS9tZ29uVkJ3R0RrU05GZWN0Q3c9PQo=",
+      "url": "https://github.com/RedBilled/releases/releases/download/claudeusagetracker-v1.0.0/ClaudeUsageTracker_1.0.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFh5Wml2TEtPenNWNGx1OVBBQ0wzSER2aDRwaS9STHg3ZE1OVU5DdDJmeWhSeGE0NHBkaFZvKy9MNjNKdGgrUU8zaU1DM201cG9URXlmRG8zdUpFQ3Y3OGVOeVBlZWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc5OTg5CWZpbGU6Q2xhdWRlVXNhZ2VUcmFja2VyXzEuMC4wX3g2NC1zZXR1cC5leGUKSjM0MU50VklNTzJIZXpiREVuNlNGRVZzS2V4MFB2a00rbE9BUzRoZzk0bEFsZUwrSXZtNVBVZEZHZTk2aWhtOC9PbS9tZ29uVkJ3R0RrU05GZWN0Q3c9PQo=",
+      "url": "https://github.com/RedBilled/releases/releases/download/claudeusagetracker-v1.0.0/ClaudeUsageTracker_1.0.0_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFh5Wml2TEtPenVqbXNKcktVanJZcm0ySDZrSzBObzR1L2xXL0ZsUVBMOXZNRXlicXZKYWVyelFBcVVmcXM3eGJYSitqUTR0T0xZejEreXQxYVFNMjNNdUwvVi8zSFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc5OTg5CWZpbGU6Q2xhdWRlVXNhZ2VUcmFja2VyXzEuMC4wX3g2NF9lbi1VUy5tc2kKVkREcUJyRDJmRXFybUlpN0h4azdwSmtnVjBpRy96MWRST2l2ZkJrY0owamtyN2h0QzlZemhyVmpiQlJ1MWcwelJpU1FwT2o1SW9qNDVnODZiMzZMREE9PQo=",
+      "url": "https://github.com/RedBilled/releases/releases/download/claudeusagetracker-v1.0.0/ClaudeUsageTracker_1.0.0_x64_en-US.msi"
+    }
+  }
+}
