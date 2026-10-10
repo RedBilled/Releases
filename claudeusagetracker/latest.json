@@ -1,19 +1,19 @@
 {
-  "version": "1.0.1",
-  "notes": "### Modifié\n\n- Tableau de bord : un point médian sépare le type de l'indicateur le plus\n  avancé de son pourcentage.\n- La barre de navigation prend le fond du panneau principal.\n\n### Corrigé\n\n- Fenêtre d'alertes : la capsule d'état est centrée verticalement, à la\n  hauteur de la capsule du type d'alerte. La même correction recentre la\n  capsule d'état de l'en-tête de carte et des lignes de compteur.",
-  "pub_date": "2026-10-08T10:32:26Z",
+  "version": "1.0.2",
+  "notes": "### Ajouté\n\n- Sessions : les questions posées par Claude Code et restées sans réponse sont\n  signalées dans un bloc « En attente de votre réponse » sur l'écran Sessions,\n  par une marque dans l'overlay et dans la fenêtre d'alertes après un délai.\n  Le canal et le délai se règlent dans Paramètres › Sessions.\n- Les demandes de permission en attente sont signalées comme les questions.\n  L'attente est lue dans le statut des processus Claude Code.\n- Bouton « Voir », sur l'écran Sessions et dans la fenêtre d'alertes : il\n  sélectionne l'onglet Windows Terminal de la session et amène sa fenêtre au\n  premier plan.",
+  "pub_date": "2026-10-10T15:27:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFh5Wml2TEtPenFISkQzcCtKWGVqZ2tSS2hTTUhBd0pIV2dmNG5hRzhKczVSbmJpUWJWRnZaY09zV05mUzBEUUE0dXkyYW1OK0dpT3E3WDUzSjN5dG4yb3daUVd2WGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDU1NDcxCWZpbGU6Q2xhdWRlVXNhZ2VUcmFja2VyXzEuMC4xX3g2NC1zZXR1cC5leGUKSTJwTXFiQzZzZHFZTWU4ZkJXMVlGc2o1cWtKd2FDd3VRRHZQMUpFWTk3ZUJpNjhxM05Cdjdlb3RuaGV4YXBwcmlPamxoUnJ6L3VYL2lja2o2U2JQRGc9PQo=",
-      "url": "https://github.com/RedBilled/releases/releases/download/claudeusagetracker-v1.0.1/ClaudeUsageTracker_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFh5Wml2TEtPemxwNWRXUW9DMDRQYjBKdGlhdE5KNG9teENVOEJaOHAzUW5td1dXLzFwOU9Za2NteGZmWUdaRUJNZS95NmJXdktWZ1R6TW9XcVRuK1c2aWQzQ0xncGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjQ1OTc1CWZpbGU6Q2xhdWRlVXNhZ2VUcmFja2VyXzEuMC4yX3g2NC1zZXR1cC5leGUKTTJJb0dvbWZJbmtoSDhwMGRDRERSZno1WExFMy9malJJeUlMMzhEeFhUazZ5YlJqQ2JNM2pVNlZrSnl3eXI1Q2sva0IwbWhCV0U5R0ZVclBMZ1k5QlE9PQo=",
+      "url": "https://github.com/RedBilled/releases/releases/download/claudeusagetracker-v1.0.2/ClaudeUsageTracker_1.0.2_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFh5Wml2TEtPenFISkQzcCtKWGVqZ2tSS2hTTUhBd0pIV2dmNG5hRzhKczVSbmJpUWJWRnZaY09zV05mUzBEUUE0dXkyYW1OK0dpT3E3WDUzSjN5dG4yb3daUVd2WGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDU1NDcxCWZpbGU6Q2xhdWRlVXNhZ2VUcmFja2VyXzEuMC4xX3g2NC1zZXR1cC5leGUKSTJwTXFiQzZzZHFZTWU4ZkJXMVlGc2o1cWtKd2FDd3VRRHZQMUpFWTk3ZUJpNjhxM05Cdjdlb3RuaGV4YXBwcmlPamxoUnJ6L3VYL2lja2o2U2JQRGc9PQo=",
-      "url": "https://github.com/RedBilled/releases/releases/download/claudeusagetracker-v1.0.1/ClaudeUsageTracker_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFh5Wml2TEtPemxwNWRXUW9DMDRQYjBKdGlhdE5KNG9teENVOEJaOHAzUW5td1dXLzFwOU9Za2NteGZmWUdaRUJNZS95NmJXdktWZ1R6TW9XcVRuK1c2aWQzQ0xncGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjQ1OTc1CWZpbGU6Q2xhdWRlVXNhZ2VUcmFja2VyXzEuMC4yX3g2NC1zZXR1cC5leGUKTTJJb0dvbWZJbmtoSDhwMGRDRERSZno1WExFMy9malJJeUlMMzhEeFhUazZ5YlJqQ2JNM2pVNlZrSnl3eXI1Q2sva0IwbWhCV0U5R0ZVclBMZ1k5QlE9PQo=",
+      "url": "https://github.com/RedBilled/releases/releases/download/claudeusagetracker-v1.0.2/ClaudeUsageTracker_1.0.2_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFh5Wml2TEtPenRMOERRMnRabU43aG9hcWkzd1FhamthUUEzVTNDWWxSWWlITStNOTFOVGRMUTZEd2FMUG8rZ2VXK3h3ckNxVUNqVGR1SG4zSW5mL092bUFSWGNhZVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDU1NDcxCWZpbGU6Q2xhdWRlVXNhZ2VUcmFja2VyXzEuMC4xX3g2NF9lbi1VUy5tc2kKYTJIMFAzOEVQOGlRR1F1cEMySXQwalBic0huODh6ZFdqV1NLcnNJTDQrcHk3L0xkK1BEL2tObTN2Z3A5OUszOEtsaGNXWWdzSndwUzhCT2RZQm0wRHc9PQo=",
-      "url": "https://github.com/RedBilled/releases/releases/download/claudeusagetracker-v1.0.1/ClaudeUsageTracker_1.0.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFh5Wml2TEtPemljemJ3cThkcXV3djUxNzJ4UE52YUcraU1TYklVVDZUb3Bzd216NjgybVJTTVNjN3BKM0MvWlhzS05nZHRPc0I1aUw5MEtGZjZnL3hPT21hVitTdWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjQ1OTc1CWZpbGU6Q2xhdWRlVXNhZ2VUcmFja2VyXzEuMC4yX3g2NF9lbi1VUy5tc2kKbENiVjg1bkVwenpudTAwdElwZ3dRUVEwemoxSTBXRlNBYWpZZ29Va09pSElnTWo1UmxNbUxBcGxsOTNOTzZTZFpjZ0pOYnJucXRjMmoxS3pZUStIQWc9PQo=",
+      "url": "https://github.com/RedBilled/releases/releases/download/claudeusagetracker-v1.0.2/ClaudeUsageTracker_1.0.2_x64_en-US.msi"
     }
   }
 }
