@@ -1,11 +1,11 @@
 {
-  "version": "0.7.1",
-  "notes": "TaskTracker v0.7.1",
-  "pub_date": "2026-09-06T12:40:49Z",
+  "version": "0.7.2",
+  "notes": "TaskTracker v0.7.2",
+  "pub_date": "2026-10-21T11:57:15Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWNYY2pNckU4L1FtZkpEcXRtald4M3YyT2x6M1dMVklzQ1pTbW02ZzBHQjNiblJ2YUdIN0hLemtpUXBndXVvTEIzZGR6cDEzeStyUmpTb3lMeEQ4RDBYSWxDUC9uVUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Njk4NDMxCWZpbGU6VGFza1RyYWNrZXJfMC43LjFfeDY0LXNldHVwLmV4ZQpnN2N5RjNUaUI4bWxkOWRBbmpmL2puMHNFNG90S2xKZ0ZjZGlIRFBNemVjUnNjSFgyZjAyRnk0eFB4d0Z3V0xBd1dLY1Y5Z3lMcDJFTUlDRmcxK0hCUT09Cg==",
-      "url": "https://github.com/RedBilled/Releases/releases/download/tasktracker-v0.7.1/TaskTracker_0.7.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVWNYY2pNckU4L1ZUdE1lZlY1SUprdlU1VkFlaWMzRmVzSzBtZ3ZTcU92MWJUcnQ0Ky9VN1A5UWVkLzJLRVpSanNlM0RsTzJlTEdnd3pINEM3WFZhR05MRkFPOFdWSkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgzNzk2CWZpbGU6VGFza1RyYWNrZXJfMC43LjJfeDY0LXNldHVwLmV4ZQpwb21Zdlk5c2NvVWxtYy94N2NKQ3A2RDlGZkp2YWVnY3k3Tk1uNlJsWW5EWThtcWdDN2xFOWpQQjVmQzJ3QUp2MnhRRnpVakVJdGFWczBpNExpU25DUT09Cg==",
+      "url": "https://github.com/RedBilled/Releases/releases/download/tasktracker-v0.7.2/TaskTracker_0.7.2_x64-setup.exe"
     }
   }
 }
