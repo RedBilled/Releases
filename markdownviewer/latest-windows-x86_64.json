@@ -1,0 +1,11 @@
+{
+  "version": "1.11.0",
+  "notes": "MarkdownViewer v1.11.0",
+  "pub_date": "2026-10-29T18:45:01Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbUsyZENSVUc1WUg2TWk5STVCdXFKQjZHcGdPdkQ5eTArM1ZnT3VUSmdqS2FYMFhodkdkdGhkSldJQ3M1Q0pIbGFEeTR2bWx6T08wTCs5Q3AyQm9vYUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjk5NDc0CWZpbGU6TWFya2Rvd25WaWV3ZXJfMS4xMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjExLjAKcnkySEY0NE96alN0MVJObVFMa3pWVTBiNlNlbnFYaTN3L0NKbC83b1Y5d2FBWmdHbFdDVVJlM2lxZEpPZkVHOTl1L1ZYVHJQQTFOVHNtRHAzV1V2QlE9PQo=",
+      "url": "https://github.com/RedBilled/releases/releases/download/markdownviewer-v1.11.0/MarkdownViewer_1.11.0_x64-setup.exe"
+    }
+  }
+}
