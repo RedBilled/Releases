@@ -1,11 +1,11 @@
 {
-  "version": "1.11.1",
-  "notes": "MarkdownViewer v1.11.1",
-  "pub_date": "2026-10-29T21:26:42Z",
+  "version": "1.11.2",
+  "notes": "MarkdownViewer v1.11.2",
+  "pub_date": "2026-10-30T09:02:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbU8yUk1yTFFrcDRNU2hrbDR0U2ZocnVCQUV2aEVlMkplWmhwOVdGMXVDS3Uyb05pMXRmSzVJbFRYKzJVbHlBVFdlSS9HSW11amhSZFZ3REVkMUVsM2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzA5MTc5CWZpbGU6TWFya2Rvd25WaWV3ZXJfMS4xMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjExLjEKWHo5OS9pcEQ0K1cyRGZtdG1jVmgwVlE2ZG1MYjllNG4yOEd4RUowUFhvaytvRzJLdkZyakFBNnZRc1JTcXgwYWNheW9UOEZ1N1lMVWorem5QOWphRHc9PQo=",
-      "url": "https://github.com/RedBilled/releases/releases/download/markdownviewer-v1.11.1/MarkdownViewer_1.11.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbURMMnVrMFBGeEJ0dWJzUWxxZDhKVEtxQmFuOFFTeDdBbUxScTZKdmpFZi9RTWdGbkFzRXhoL1dQRnV0and6TFVvdUlLYjJzWGJudG9TVFlqMklpSVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzUwOTI4CWZpbGU6TWFya2Rvd25WaWV3ZXJfMS4xMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjExLjIKODRuMjBlWjhCSTNYSm1aQy9hNGdoekZGSXRTTE5CQTJoSDBOeWtDUDFRSDB3NlFKV0xoaW14NTVocExpYVBtVkptc3RaUlFnbmYrUWxuM0NMT09vRGc9PQo=",
+      "url": "https://github.com/RedBilled/releases/releases/download/markdownviewer-v1.11.2/MarkdownViewer_1.11.2_x64-setup.exe"
     }
   }
 }
