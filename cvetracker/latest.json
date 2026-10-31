@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.1",
-    "notes":  "### Ajouté\n\n- **Statistiques anonymes** : une fois par jour au plus, CveTracker envoie à redbilled.fr sa version, votre\n  système, l\u0027architecture, la langue et le thème de l\u0027interface, sous un identifiant aléatoire. Aucun\n  projet, chemin ni composant n\u0027est envoyé ; redbilled.fr ne conserve ni votre adresse IP ni votre pays.\n  C\u0027est activé par défaut, avec un encart\n  d\u0027information au premier affichage (rien ne part avant que vous l\u0027ayez acquitté) ; un interrupteur dans\n  Paramètres le coupe et supprime l\u0027identifiant.",
-    "pub_date":  "2026-10-30T23:52:07Z",
+    "version":  "0.9.2",
+    "notes":  "### Modifié\n\n- **Statistiques anonymes** : l\u0027encart d\u0027information du premier affichage n\u0027a plus qu\u0027un bouton,\n  « Compris ». Pour couper l\u0027envoi, l\u0027interrupteur « Statistiques anonymes » de Paramètres reste disponible\n  à tout moment.",
+    "pub_date":  "2026-10-31T00:52:01Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNVpUYnNHY2xCa2ZGV3pndU5yMEZoSm40V1J0cWQ3b21tQllWbjg4Q3VVY3Jmb3lYTjR6RVVEWmw2bGZ4OXpxT0ZhZlZuM2FoeEVHTE85RDdnOSszR2JTT0NPRnZ0S2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA0Mjg4CWZpbGU6Q3ZlVHJhY2tlcl8wLjkuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjEKcTJNcGF3VHJXVktQK0hEYzBxTXVpcjVVeURUL0duRXo3S243b3BsWGZLVGduYmYvT3crSW9nNXJxZzA0MTFuOFNSN2hzQ0ZheFg4VThWT1l4SHNmQ3c9PQo=",
-                                             "url":  "https://github.com/RedBilled/Releases/releases/download/cvetracker-v0.9.1/CveTracker_0.9.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNVpUYnNHY2xCa2ZoRVVsd3p5YkIrczhkMlNpTTVsd2hJQ29tN2VyNnAxaDRnQTg3Z0NiU2VVdGxKMEx3cGFlc0pVeG0zSzlabnRjbEpjclZGVzk5MWwyeGhqdEszK1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA3ODgxCWZpbGU6Q3ZlVHJhY2tlcl8wLjkuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjIKL0g2T1hVUHU1TVR6aTZYYnBiSE5IdXd6WFhGZktWMU85dDdkNld5SkYwQ3BnWGZWcG9FS0diU2tiZkRQSjNZeUlPYTIxUjVzOTNkVHU1WFB3RTNwQWc9PQo=",
+                                             "url":  "https://github.com/RedBilled/Releases/releases/download/cvetracker-v0.9.2/CveTracker_0.9.2_x64-setup.exe"
                                          }
                   }
 }
