@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.2",
-    "notes":  "### Modifié\n\n- **Statistiques anonymes** : l\u0027encart d\u0027information du premier affichage n\u0027a plus qu\u0027un bouton,\n  « Compris ». Pour couper l\u0027envoi, l\u0027interrupteur « Statistiques anonymes » de Paramètres reste disponible\n  à tout moment.",
-    "pub_date":  "2026-10-31T00:52:01Z",
+    "version":  "0.9.3",
+    "notes":  "### Ajouté\n\n- **Veille** : chaque onglet (Mises à jour, Licences, Chaîne d\u0027approvisionnement, Certificats) reçoit, comme\n  l\u0027écran Vulnérabilités, un champ de recherche et des listes de choix : projet, écosystème, licence, famille,\n  état, écart, type selon l\u0027onglet. La recherche porte sur ce que le tableau affiche, sans tenir compte des\n  majuscules ni des accents. Le même ensemble sert aux onglets Mises à jour, Licences et Chaîne du détail\n  d\u0027un projet, sans la liste des projets. Les filtres par colonne restent derrière « Filtrer ».\n\n### Corrigé\n\n- **Veille** : la barre des onglets n\u0027a plus d\u0027ascenseur vertical (page Veille et détail d\u0027un projet).\n\n### Modifié\n\n- **Statistiques anonymes** : le texte de l\u0027encart d\u0027information est raccourci. Il ne nomme plus le serveur\n  destinataire et dit simplement que ni votre adresse IP ni votre pays ne sont conservés.",
+    "pub_date":  "2026-11-02T08:53:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNVpUYnNHY2xCa2ZoRVVsd3p5YkIrczhkMlNpTTVsd2hJQ29tN2VyNnAxaDRnQTg3Z0NiU2VVdGxKMEx3cGFlc0pVeG0zSzlabnRjbEpjclZGVzk5MWwyeGhqdEszK1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA3ODgxCWZpbGU6Q3ZlVHJhY2tlcl8wLjkuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjIKL0g2T1hVUHU1TVR6aTZYYnBiSE5IdXd6WFhGZktWMU85dDdkNld5SkYwQ3BnWGZWcG9FS0diU2tiZkRQSjNZeUlPYTIxUjVzOTNkVHU1WFB3RTNwQWc9PQo=",
-                                             "url":  "https://github.com/RedBilled/Releases/releases/download/cvetracker-v0.9.2/CveTracker_0.9.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNVpUYnNHY2xCa1JtWnFkNWl3UElhNWFUZjJxa29qZHBwWmhuV2dtcTMySzU5K3lUUThwdWhEOFBjS3h1VFVURWdqUW1BZVkzZmpZTnlrT0ZaWEtOOHFVYTJ1S3VNZFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjA5NTQ4CWZpbGU6Q3ZlVHJhY2tlcl8wLjkuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjMKY3l6V3RFUmMrV0pNdFlUZFBjdWZFMzdPaW1mVU9UN1NGM2VxNTRJVWMyMUszcDhjSkl1Tm9PZUZjb3BCOTNJb1FiMmExaWt1aU5zenN3R3dPK2xWQWc9PQo=",
+                                             "url":  "https://github.com/RedBilled/Releases/releases/download/cvetracker-v0.9.3/CveTracker_0.9.3_x64-setup.exe"
                                          }
                   }
 }
