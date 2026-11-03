@@ -1,11 +1,19 @@
 {
   "version": "1.12.0",
   "notes": "MarkdownViewer v1.12.0",
-  "pub_date": "2026-11-03T22:18:57Z",
+  "pub_date": "2026-11-03T22:27:18Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbUhndXBkSjZITUEveXhQamhYeW5LRzY2K0h2VXhCN1dHZkxmRW5HMS9QQVFvMnR6Y01USlMrK3lQR1JNUm5ZeHduMTdMeUZZbUg4eDFITkwydGNHb3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ0Mjk2CWZpbGU6TWFya2Rvd25WaWV3ZXJfMS4xMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEyLjAKdlJheThNaTU2VWxYUDRvakR3L1pGaVl3RmthTG94NXpPK3JIdklRNWJXbFl2T1FLcEY3UFlvWmNrSE1UQlBOSEg4U004a05DdnFmcUZSODc5bFdMRGc9PQo=",
       "url": "https://github.com/RedBilled/releases/releases/download/markdownviewer-v1.12.0/MarkdownViewer_1.12.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbU16YjFrSGl3M29ZSWFMMm5FNld6KzNFN2RwaFNjTzFMMVg5Sm8yaUpFRUMreUdMdE1DY3g2YWNFYWgvT2JHcWZ4a1JJejJHb0JGT3ZEUy9UOUorb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ0ODM2CWZpbGU6TWFya2Rvd25WaWV3ZXIuYXBwLnRhci5negl2ZXJzaW9uOjEuMTIuMAoyeFVqNHJReGZaZ3pFV1l5cTlkMEtNdGFYTDRBS1lWdVM4WjJGakUyQXlkSnRrSnNGTlZjWW5MOUY1REdpcGV0OElnMnoyOFpEdVJTdFNjOGIxcFdEQT09Cg==",
+      "url": "https://github.com/RedBilled/releases/releases/download/markdownviewer-v1.12.0/MarkdownViewer.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbU16YjFrSGl3M29ZSWFMMm5FNld6KzNFN2RwaFNjTzFMMVg5Sm8yaUpFRUMreUdMdE1DY3g2YWNFYWgvT2JHcWZ4a1JJejJHb0JGT3ZEUy9UOUorb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ0ODM2CWZpbGU6TWFya2Rvd25WaWV3ZXIuYXBwLnRhci5negl2ZXJzaW9uOjEuMTIuMAoyeFVqNHJReGZaZ3pFV1l5cTlkMEtNdGFYTDRBS1lWdVM4WjJGakUyQXlkSnRrSnNGTlZjWW5MOUY1REdpcGV0OElnMnoyOFpEdVJTdFNjOGIxcFdEQT09Cg==",
+      "url": "https://github.com/RedBilled/releases/releases/download/markdownviewer-v1.12.0/MarkdownViewer.app.tar.gz"
     }
   }
 }

@@ -1,15 +1,15 @@
 {
-  "version": "1.11.2",
-  "notes": "MarkdownViewer v1.11.2",
-  "pub_date": "2026-10-30T09:21:08Z",
+  "version": "1.12.0",
+  "notes": "MarkdownViewer v1.12.0",
+  "pub_date": "2026-11-03T22:27:18Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbUUybzBMWWkvTGI5RTB0MFcyWWtCcDJUQXdwaW5tTnh0NnYxM3d3RlVNcHZTdFZxL0YydDY1YUhCc1hIdEpVbDI5amRYeXpkbmducWhiNDc3eFUzUFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzUyMDY2CWZpbGU6TWFya2Rvd25WaWV3ZXIuYXBwLnRhci5negl2ZXJzaW9uOjEuMTEuMgpyS0c4ZTJhOVBWcnRvdFhkSmFKSyt3RlNTNnlvTkVaOXJBQzgxNVYwc0lzdU1KeWg0ZWcxY0kxZ2JBd01XaTdRNGl5cHZZQ0ZsWVFlZjZhSnhDSXBBUT09Cg==",
-      "url": "https://github.com/RedBilled/releases/releases/download/markdownviewer-v1.11.2/MarkdownViewer.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbU16YjFrSGl3M29ZSWFMMm5FNld6KzNFN2RwaFNjTzFMMVg5Sm8yaUpFRUMreUdMdE1DY3g2YWNFYWgvT2JHcWZ4a1JJejJHb0JGT3ZEUy9UOUorb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ0ODM2CWZpbGU6TWFya2Rvd25WaWV3ZXIuYXBwLnRhci5negl2ZXJzaW9uOjEuMTIuMAoyeFVqNHJReGZaZ3pFV1l5cTlkMEtNdGFYTDRBS1lWdVM4WjJGakUyQXlkSnRrSnNGTlZjWW5MOUY1REdpcGV0OElnMnoyOFpEdVJTdFNjOGIxcFdEQT09Cg==",
+      "url": "https://github.com/RedBilled/releases/releases/download/markdownviewer-v1.12.0/MarkdownViewer.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbUUybzBMWWkvTGI5RTB0MFcyWWtCcDJUQXdwaW5tTnh0NnYxM3d3RlVNcHZTdFZxL0YydDY1YUhCc1hIdEpVbDI5amRYeXpkbmducWhiNDc3eFUzUFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzUyMDY2CWZpbGU6TWFya2Rvd25WaWV3ZXIuYXBwLnRhci5negl2ZXJzaW9uOjEuMTEuMgpyS0c4ZTJhOVBWcnRvdFhkSmFKSyt3RlNTNnlvTkVaOXJBQzgxNVYwc0lzdU1KeWg0ZWcxY0kxZ2JBd01XaTdRNGl5cHZZQ0ZsWVFlZjZhSnhDSXBBUT09Cg==",
-      "url": "https://github.com/RedBilled/releases/releases/download/markdownviewer-v1.11.2/MarkdownViewer.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUmxzM3lEUFlGbU16YjFrSGl3M29ZSWFMMm5FNld6KzNFN2RwaFNjTzFMMVg5Sm8yaUpFRUMreUdMdE1DY3g2YWNFYWgvT2JHcWZ4a1JJejJHb0JGT3ZEUy9UOUorb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ0ODM2CWZpbGU6TWFya2Rvd25WaWV3ZXIuYXBwLnRhci5negl2ZXJzaW9uOjEuMTIuMAoyeFVqNHJReGZaZ3pFV1l5cTlkMEtNdGFYTDRBS1lWdVM4WjJGakUyQXlkSnRrSnNGTlZjWW5MOUY1REdpcGV0OElnMnoyOFpEdVJTdFNjOGIxcFdEQT09Cg==",
+      "url": "https://github.com/RedBilled/releases/releases/download/markdownviewer-v1.12.0/MarkdownViewer.app.tar.gz"
     }
   }
 }
