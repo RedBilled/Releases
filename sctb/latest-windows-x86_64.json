@@ -1,11 +1,11 @@
 {
-  "version": "2.0.4",
-  "notes": "SCTB v2.0.4",
-  "pub_date": "2026-10-13T17:55:01Z",
+  "version": "2.0.5",
+  "notes": "SCTB v2.0.5",
+  "pub_date": "2026-11-12T12:25:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYzdnb1BsSm1TUTdyOXJtWjVxSEJZK3BMMWFHYWxyL2U3anU0T1BqeFk0QTBuK1V6RjlVZHFaQW9UbDl2QUtWN3R3TXpjYU9Sb2xmaGJWSmUzdkh6UDJiN2lNNEdZTWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTE0MDkwCWZpbGU6U0NUQl8yLjAuNF94NjQtc2V0dXAuZXhlClNrSmo5N1pGMk8wa1c2WGcrWGQyOXlPVnJSN3VSdE9PWTNjNlZSWVEzdngvUW4yZHdIQzJRdVNjY3JqdnRXSmZ2d3RYWHdielFNSXpZNEVlV3BrbkJRPT0K",
-      "url": "https://github.com/RedBilled/Releases/releases/download/sctb-v2.0.4/SCTB_2.0.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYzdnb1BsSm1TUS9LNWhlZGFrWWRycXNFUjMzM2c1UGR5OGwrem8rZDR2eVJPSTgrSzVwK1VwNVhMVWZFM3VtN2c2WGRXOXQzTTk1SGpZRXBBM0xYbVc4cThGN3dYWFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDg2MzEzCWZpbGU6U0NUQl8yLjAuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4wLjUKNFNEZW9BVDFkR2M3ZTBkYmFTZlBITWNJd0hmWXk2NW9OZFpCaEVEYXcrWnRGR2o3ZFZsc3BtemNRcExLNzlGVVVvODdYY1ZvcnVaMVBzZW5vK1EyQ2c9PQo=",
+      "url": "https://github.com/RedBilled/Releases/releases/download/sctb-v2.0.5/SCTB_2.0.5_x64-setup.exe"
     }
   }
 }
